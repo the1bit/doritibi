@@ -7,7 +7,7 @@ jQuery(document).ready(function ($) {
     if (myPage == "/lifepath/") {
         document.getElementById("demo").innerHTML = "The full URL of this page is:<br>" + myUrl;
     }
-    document.alert("I am Tibi");
+    alert("I am Tibi");
 });
 
 
