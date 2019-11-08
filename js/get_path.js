@@ -1,3 +1,5 @@
+console.log("Header");
+
 jQuery(document).ready(function ($) {
     console.log("Haho");
     var myUrl = window.location.href;
@@ -7,3 +9,6 @@ jQuery(document).ready(function ($) {
     }
     document.alert("I am Tibi");
 });
+
+
+console.log("Footer");
